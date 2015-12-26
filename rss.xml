@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[HandmadeGiftShoppe]]></title>
+        <description><![CDATA[HandmadeGiftShoppe]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Dec 2015 23:26:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Handmade Gifts]]></title>
+            <description><![CDATA[<article><h1>Handmade Gifts</h1><p>Here are some of the past items we have made:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/935023d93e447b34f0235fc33ff3e6b4dc4bd9a4.jpg"></article>]]></description>
+            <link>undefinedhandmade-gifts/index.html</link>
+            <guid isPermaLink="false">47f5ae4e-5b32-45b5-bb29-0ec18d2ead83</guid>
+            <pubDate>Sat, 26 Dec 2015 23:26:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
